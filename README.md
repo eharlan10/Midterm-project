@@ -6,7 +6,7 @@
 ### My favorite things
 [Link to my favorite things](favoritethings.md)
 ### My designs
-[Link to some of my designs]
+[Link to some of my designs](design.md)
 ### HTML FizzBuzz
 [Link to FizzBuzz]
 ### Project requirements
