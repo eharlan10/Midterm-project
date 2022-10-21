@@ -1,2 +1,2 @@
 # Midterm-project
-[link to aboutme](aboutme.md)
+[link to aboutme](Aboutme.md)
