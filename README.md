@@ -10,4 +10,4 @@
 ### HTML FizzBuzz
 [Link to FizzBuzz](fizzbuzz.md)
 ### Project requirements
-[Link to project requirements]
+[Link to project requirements](projectrequirements.md)
