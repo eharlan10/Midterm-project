@@ -1,4 +1,4 @@
-# Midterm-project
+# Challenge: Markdown Pages on GitHub
 
 ## Links to other pages
 ### About me
